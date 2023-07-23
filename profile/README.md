@@ -12,7 +12,7 @@ guarantees for changes.
 
 We currently work on and have developed or helped develop:
 * [op-reth](https://github.com/refcell/reth): Support for [Optimism](https://www.optimism.io/) in the [reth](https://github.com/paradigmxyz/reth) execution client.
-* [magi](): 
+* [magi](https://github.com/a16z/magi): An OP Stack rollup client built in rust providing the same functionality as the [op-node](https://github.com/ethereum-optimism/optimism/tree/develop/op-node).
 
 
 _h/t to [Paradigm](https://github.com/paradigmxyz) for the README setup._
