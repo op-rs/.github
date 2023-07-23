@@ -1,0 +1,18 @@
+
+[anton-rs](https://anton.vercel.app/) is a open-source research collective with a mission to build high quality software
+for large scale decentralized systems. Membership is informally selective and maximally efficient.
+
+We take a first-principles approach for building new software given the extreme dynamic nature of decentralized
+environments. That said, we develop our own software we enjoy using and make no claims to a neutral preference.
+
+[anton-rs](https://anton.vercel.app/) is the selected name for our Github Organization to demonstrate our preference
+to build robust software in [rust](https://www.rust-lang.org/). All of our code, architectures, and otherwise intellectual
+property is developed under the [MIT License](https://opensource.org/license/mit/). We illicite feedback but make no
+guarantees for changes.
+
+We currently work on and have developed or helped develop:
+* [op-reth](https://github.com/refcell/reth): Support for [Optimism](https://www.optimism.io/) in the [reth](https://github.com/paradigmxyz/reth) execution client.
+* [magi](): 
+
+
+_h/t to [Paradigm](https://github.com/paradigmxyz) for the README setup._
