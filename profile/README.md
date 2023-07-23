@@ -1,6 +1,6 @@
 ![anton](https://github.com/anton-rs/.github/assets/21288394/53f91546-7a4c-4626-8112-901345958c85)
 
-[anton-rs](https://anton.vercel.app/) is a open-source research collective with a mission to build high quality software
+[Anton Systems](https://anton.systems) is a open-source research collective with a mission to build high quality software
 for large scale decentralized systems. Membership is informally selective and maximally efficient.
 
 We take a first-principles approach for building new software given the extreme dynamic nature of decentralized
