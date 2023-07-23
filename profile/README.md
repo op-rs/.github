@@ -11,6 +11,8 @@ to build robust software in [rust](https://www.rust-lang.org/). All of our code,
 property is developed under the [MIT License](https://opensource.org/license/mit/). We illicite feedback but make no
 guarantees for changes.
 
+_All our rust are belong to you._
+
 We currently work on and have developed or helped develop:
 * [op-reth](https://github.com/refcell/reth): Support for [Optimism](https://www.optimism.io/) in the [reth](https://github.com/paradigmxyz/reth) execution client.
 * [magi](https://github.com/a16z/magi): An OP Stack rollup client built in rust providing the same functionality as the [op-node](https://github.com/ethereum-optimism/optimism/tree/develop/op-node).
