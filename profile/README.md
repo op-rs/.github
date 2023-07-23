@@ -1,17 +1,18 @@
 ![anton](https://github.com/anton-rs/.github/assets/21288394/53f91546-7a4c-4626-8112-901345958c85)
 
 [Anton Systems](https://anton.systems) is a open-source research collective with a mission to build high quality software
-for large scale decentralized systems. Membership is informally selective and maximally efficient.
+for large scale decentralized systems. Contributors will be elected retroactively based on their overall contributions. That said, the intent is to be as open and accessible as possible while maintaining high level of rigor.
 
-We take a first-principles approach for building new software given the extreme dynamic nature of decentralized
-environments. That said, we develop our own software we enjoy using and make no claims to a neutral preference.
+We operate under a few principles:
 
-[anton-rs](https://anton.vercel.app/) is the selected name for our Github Organization to demonstrate our preference
+- The software that we build is the software that we use.
+- There is no expectation for preferential treatment.
+- The dynamic nature of decentralized systems often requires a first-principles approach.
+- _All our rust are belong to you._
+
+[anton-rs](https://github.com/anton-rs/) is the selected name for our Github Organization to make explicit our preference
 to build robust software in [rust](https://www.rust-lang.org/). All of our code, architectures, and otherwise intellectual
-property is developed under the [MIT License](https://opensource.org/license/mit/). We illicite feedback but make no
-guarantees for changes.
-
-_All our rust are belong to you._
+property is developed under the [MIT License](https://opensource.org/license/mit/) with the exception of external adaptations or "forks". We strongly encourage and elicit feedback.
 
 We currently work on and have developed or helped develop:
 * [op-reth](https://github.com/refcell/reth): Support for [Optimism](https://www.optimism.io/) in the [reth](https://github.com/paradigmxyz/reth) execution client.
