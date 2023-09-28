@@ -8,7 +8,7 @@ To jump in, read through the [alldevs](https://github.com/anton-rs/alldevs) repo
 
 #### Operating Principles
 
-[Anton Systems](https://anton.systems) developers operate under a few principles.
+[Anton Systems](https://anton.systems) operates under a few principles.
 
 - The software that we build is the software that we use.
 - There must be no expectation for preferential treatment. All open source contributions in this github org are done in good faith and for the public benefit.
