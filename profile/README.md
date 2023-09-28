@@ -13,9 +13,9 @@ To improve or build ontop of the Rust OP Stack, read through the [alldevs](https
 - The dynamic nature of decentralized systems requires a first-principles approach.
 - _All our rust are belong to you._
 
-An open form chat room for [Anton Systems](https://anton.systems) is available on [Telegram](https://t.me/+Ig4WDWOzikA3MzA0).
+An open form chat room for [Anton Systems](https://anton.systems) is available on [Telegram](https://t.me/+XR8_p3qjzoFiMjEx).
 
-[![Chat](https://img.shields.io/badge/chat-telegram-blue)](https://t.me/+Ig4WDWOzikA3MzA0)
+[![Chat](https://img.shields.io/badge/chat-telegram-blue)](https://t.me/+XR8_p3qjzoFiMjEx)
 
 #### Licensing
 
