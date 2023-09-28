@@ -15,5 +15,6 @@ If you want to build the or on the Rust OP Stack, read through the [alldevs](htt
 
 #### Licensing
 
-All code, designs, and otherwise intellectual property is developed under the [MIT License](https://opensource.org/license/mit/) unless
-otherwise explicitly expressed in **both** the project specification and project repository. 
+All code, designs, and otherwise intellectual property is owned by [Anton Systems](https://anton.systems) contributors under
+the [MIT License](https://opensource.org/license/mit/) unless otherwise explicitly expressed in **both** the project
+specification and project repository.
