@@ -2,7 +2,9 @@
 
 The [alldevs](https://github.com/anton-rs/alldevs) repository is where all project management, specifications, and otherwise Rust OP Stack related content is tracked.
 
-To improve or build ontop of the Rust OP Stack, read through the [alldevs](https://github.com/anton-rs/alldevs) repo first. If you're looking to build a new project, we will create a repository that **you** can spearhead inside the [anton-rs](https://github.com/anton-rs) github org once your project spec is added to [alldevs](https://github.com/anton-rs/alldevs).
+This organization is owned by **you**, contributors to the Optimism Collective and developers of the OP Stack.
+
+To jump in, read through the [alldevs](https://github.com/anton-rs/alldevs) repo. If you're looking to build a new project, [anton-rs](https://github.com/anton-rs) organization owners will create a repository inside the org that **you** can spearhead once your project spec is added to [alldevs](https://github.com/anton-rs/alldevs).
 
 #### Operating Principles
 
