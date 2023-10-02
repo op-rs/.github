@@ -1,4 +1,4 @@
-#### [Anton Systems](https://anton.systems) - A Hub to Contribute to Rust OP Stack Components
+#### [Anton Systems](https://anton.systems) - A Skunkworks OP Stack Contributors Hub
 
 The [alldevs](https://github.com/anton-rs/alldevs) repository is where all project management, specifications, and otherwise related content is tracked.
 
