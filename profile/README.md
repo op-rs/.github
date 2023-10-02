@@ -1,6 +1,6 @@
-#### [Anton Systems](https://anton.systems) - A Hub to Contribute to the Rust OP Stack.
+#### [Anton Systems](https://anton.systems) - A Hub to Contribute to Rust OP Stack Components
 
-The [alldevs](https://github.com/anton-rs/alldevs) repository is where all project management, specifications, and otherwise Rust OP Stack related content is tracked.
+The [alldevs](https://github.com/anton-rs/alldevs) repository is where all project management, specifications, and otherwise related content is tracked.
 
 This organization is owned by **you**, contributors to the Optimism Collective and developers of the OP Stack.
 
