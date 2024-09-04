@@ -2,9 +2,7 @@
 
 This organization is owned by contributors to the Optimism Collective and developers of the OP Stack.
 
-#### Operating Principles
-
-Core Principles
+#### Core Operating Principles
 
 - The software that we build is the software that we use.
 - All contributions are open source and for the public benefit.
