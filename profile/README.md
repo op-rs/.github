@@ -1,13 +1,18 @@
-#### [Anton Systems](https://anton.systems) - A Skunkworks OP Stack Contributors Hub
+#### A Home for Open Source Projects
 
-This organization is owned by contributors to the Optimism Collective and developers of the OP Stack.
+This is a home owned by and built for contributors of the OP Stack.
+
+#### Newsletters
+
+[anton-rs.github.io/newsletters](https://anton-rs.github.io/newsletters) contains a collection of project updates.
 
 #### Core Operating Principles
 
+[grugbrain.dev](https://grugbrain.dev/)
+
+- Aggressively unblock.
 - The software that we build is the software that we use.
 - All contributions are open source and for the public benefit.
-- Unblock aggressively.
-- Always use a first-principles approach.
 - _All our rust are belong to you._
 
 #### Licensing
