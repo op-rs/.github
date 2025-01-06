@@ -1,10 +1,10 @@
-#### A Home for Open Source Projects
+#### A Hub for Protocol Rust
 
-This is a home owned by and built for contributors of the OP Stack.
+This is a hub for open source protocol rust code owned by and built for contributors of the OP Stack.
 
 #### Newsletters
 
-[anton-rs.github.io/newsletters](https://anton-rs.github.io/newsletters) contains a collection of project updates.
+[op-rs.github.io/newsletters](https://op-rs.github.io/newsletters) contains a collection of project updates.
 
 #### Core Operating Principles
 
